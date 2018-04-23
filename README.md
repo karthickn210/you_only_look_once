@@ -8,7 +8,10 @@
 
 ### Installation
 
-1. https://github.com/karthickn210/you_only_look_once.git
+1. clone you_only_look_once repository
+        ```shell
+           $ git clone https://github.com/karthickn210/you_only_look_once.git
+	   $ cd you_only_look_once
 	```
 
 2. Download [YOLO_v1](http://pan.baidu.com/s/1cGV694) [YOLO_v2_pb](http://pan.baidu.com/s/1hrRszrA) [YOLO_v2_meta](http://pan.baidu.com/s/1dEOaGPr) 
